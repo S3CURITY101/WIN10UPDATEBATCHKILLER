@@ -40,4 +40,6 @@ This is simple batch file that is disabling WINDOWS 10 UPDATE via command line f
   <img src="https://github.com/S3CURITY101/WIN10UPDATEBATCHKILLER/blob/master/screenshots/bat4.jpg" />
   <br>
   
-  #POWERPINOYNAMBERWAN
+  <b>#POWERPINOYNAMBERWAN</b>
+  <b>Enge Kape<b>
+  
