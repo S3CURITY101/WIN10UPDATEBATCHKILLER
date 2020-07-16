@@ -41,5 +41,5 @@ This is simple batch file that is disabling WINDOWS 10 UPDATE via command line f
   <br>
   
   <b>#POWERPINOYNAMBERWAN</b><br>
-  <b>Enge Kape<b>
+  <b>#Enge Kape<b>
   
