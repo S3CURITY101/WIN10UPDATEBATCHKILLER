@@ -15,14 +15,19 @@ This is simple batch file that is disabling WINDOWS 10 UPDATE via command line f
   that batch file is can trigger on startup how to do it?
   
     1. On run dialog box or using win + r the dialog box will prompt just type: shell:startup -- this will prompt your startup folder
+   <br>
   <br>
   <img src="https://github.com/S3CURITY101/WIN10UPDATEBATCHKILLER/blob/master/screenshots/bat2.jpg" />
   <br>
+  <br>
     2. Put the file or the batch file into that folder then try to sign out then login again. 
+  <br>
   <br>
   <img src="https://github.com/S3CURITY101/WIN10UPDATEBATCHKILLER/blob/master/screenshots/bat3.png" />
   <br>
+  <br>
     3. Just wait and the batch file will begin to do that command via cmd.
+  <br>
   <br>
   <img src="https://github.com/S3CURITY101/WIN10UPDATEBATCHKILLER/blob/master/screenshots/bat4.jpg" />
   <br>
