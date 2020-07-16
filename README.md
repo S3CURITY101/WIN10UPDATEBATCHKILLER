@@ -12,7 +12,8 @@ This is simple batch file that is disabling WINDOWS 10 UPDATE via command line f
           
 #HOW TO USE:<br>
 
-  This is really easy to use just copy or download the file and paste to notepad or any editor you want then save it as .bat or batch file so that you can enable to use it.
+  This is really easy to use just copy or download the file and paste to notepad or any editor you want then save it as .bat or batch file so that you can enable to use it.<br><br>
+  This is not for permanent solution microsoft is intelligent to enable your update in different ways but hoping that this will help you a little bit.
   
  
 #WANT TO PUT IT ON STARTUP OF YOUR PC OR LAPTOP?
