@@ -1,0 +1,43 @@
+@echo off 
+color 4
+timeout 3
+
+Set count=0
+:a 
+if %count% gtr 1 (goto :b) else (set /a count+=1)
+net stop wuauserv
+timeout 2
+cls
+goto :a 
+
+
+:b
+if %count% gtr 2 (goto :c) else (set /a count+=1)
+net stop bits
+timeout 2
+cls
+goto :b
+
+
+
+:c
+if %count% gtr 3 (goto :d) else (set /a count+=1)
+net stop bits
+timeout 2
+cls
+goto :c
+
+:d
+
+Echo  ========================================
+Echo  ----------------------------------------
+Echo  CONGRATULATION YOU STOPPED WIN10 UPDATE
+Echo  ----------------------------------------
+Echo  ========================================
+Echo  ----------------------------------------
+Echo            H A C K E R M A N 
+Echo   ----------------------------------------
+Echo  ========================================
+timeout 3
+
+exit
