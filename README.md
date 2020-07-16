@@ -10,13 +10,13 @@ This is simple batch file that is disabling WINDOWS 10 UPDATE via command line f
 <br>
 <img height="500px" src="https://github.com/S3CURITY101/WIN10UPDATEBATCHKILLER/blob/master/screenshots/bat1.jpg" />
           
-#HOW TO USE:<br>
+<h2>HOW TO USE:</h2><br>
 
   This is really easy to use just copy or download the file and paste to notepad or any editor you want then save it as .bat or batch file so that the command will run.<br><br>
   This is not for permanent solution microsoft is intelligent to enable your update in different ways but hoping that this will help you a little bit.
   
  
-#WANT TO PUT IT ON STARTUP OF YOUR PC OR LAPTOP?
+<h2>WANT TO PUT IT ON STARTUP OF YOUR PC OR LAPTOP?</h2>
 
   If you want to try additional lazy mode this is maybe you want.
   
